@@ -1,0 +1,24 @@
+.parent-class{
+   box-shadow: 5px 10px 15px 5px rgba(0, 0, 0, .7);
+   margin: 24%;
+   padding: 15px;
+}
+.div-parent{
+    text-align: center;
+    background-color: darksalmon;
+    margin: 12%;
+    color: white;
+}
+.parent-main{
+    border: 2px dotted cyan;
+    text-align: center;
+    margin: 8% ;
+}
+.border{
+   
+    font-size: 80;
+}
+.para{
+    font-size: 25;
+    color: rgb(69, 145, 148);
+}
